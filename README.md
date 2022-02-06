@@ -1,6 +1,8 @@
 # binapi-no-deps
 A easy setup for the binapi  - https://github.com/niXman/binapi
 
+* only tested on MacOS
+
 ## 💻 Easy Setup to test
 
 1. create an empty C++ project on Clion - VSCode or whatever.
