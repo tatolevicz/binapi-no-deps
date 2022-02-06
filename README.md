@@ -1,2 +1,2 @@
 # binapi-no-deps
-A easy setup for de binapi  - https://github.com/niXman/binapi
+A easy setup for the binapi  - https://github.com/niXman/binapi
